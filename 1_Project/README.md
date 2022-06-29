@@ -1,7 +1,31 @@
 # Яндекс.Музыка
-<a href="https://github.com/eddydewrussia/my_own_research/tree/main/My_Muzil_Royalty_3Q_2021">Тетрадка в Юпитере</a>
+<a href="https://github.com/eddydewrussia/educational_projects/blob/main/1_Project/First_Project_Final.ipynb">Тетрадка в Юпитере</a>  
 
+<a href="https://github.com/eddydewrussia/educational_projects/blob/main/1_Project/First_Project_Final%20-%20Jupyter%20Notebook.pdf">Тетрадка в PDF</a>
 
-My own research on personal data and on requests
-
-<a href="https://github.com/eddydewrussia/my_own_research/tree/main/My_Muzil_Royalty_3Q_2021">Research of royalty data for the third quarter of 2021</a>
+## Сводная информация о проекте
+1. Название проекта
+Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов
+2. Сферы деятельности
+* Интернет-сервисы
+* Стриминговый сервис
+3. Направление деятельности
+* Data Analyst
+4. Навыки и инструменты
+* Python
+* Pandas
+* Определяемые пользователем функции
+5. Задачи проекта
+На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга.
+6. Ключевые слова проекта
+* обработка данных
+* дубликаты
+* пропуски
+* логическая индексация
+* группировка
+* сортировка
+7. Ключевые слова
+* data analyst
+* аналитик данных
+* аналитик
+* analyst
