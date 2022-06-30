@@ -1,7 +1,7 @@
 # Исследование надёжности заёмщиков
-<a href="https://github.com/eddydewrussia/educational_projects/blob/main/1_Project/First_Project_Final.ipynb">Тетрадка в Юпитере</a>  
+<a href="https://github.com/eddydewrussia/educational_projects/blob/main/2_Project/Second_Project_Final.ipynb">Тетрадка в Юпитере</a>  
 
-<a href="https://github.com/eddydewrussia/educational_projects/blob/main/1_Project/First_Project_Final%20-%20Jupyter%20Notebook.pdf">Тетрадка в PDF</a>
+<a href="https://github.com/eddydewrussia/educational_projects/blob/main/2_Project/Second_Project_Final%20-%20Jupyter%20Notebook.pdf">Тетрадка в PDF</a>
 
 ## Источник данных
 Данные по кредитного отдела банка (учебные)
