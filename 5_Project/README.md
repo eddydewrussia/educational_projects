@@ -1,11 +1,13 @@
-# Определение выгодного тарифа для телеком компании
+# Прогноз на следующий год
 ## Статус проекта
 **Завершён**  
 
-<a href="https://github.com/eddydewrussia/educational_projects/blob/main/4_Project/Fouth_Project.ipynb">Тетрадка в Юпитере</a>  
-
-<a href="https://github.com/eddydewrussia/educational_projects/blob/main/4_Project/Fouth_Project%20-%20Jupyter%20Notebook.pdf">Тетрадка в PDF</a>
-
+<a href="https://github.com/eddydewrussia/educational_projects/blob/main/5_Project/Fifth_Project.ipynb">Тетрадка в Юпитере</a>  
+### !!!!!!!!!!!!!!!!!!! ljltksdf. 
+  
+    
+      
+      
 ## Источник данных
 Учебные данные клиентов оператора сотовой связи
 ## Цели исследования
