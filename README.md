@@ -1,5 +1,12 @@
 # Учебные проекты
 **Завершённые проекты**, выполненные в рамках учебной программы по анализу данных на платформе Яндекса.Практикум
+## SQL исследование сервиса по чтению книг
+<a href="https://github.com/eddydewrussia/educational_projects/tree/main/SQL_2_Project">Каталог</a>  
+* Ключевые слова проекта  
+обработка данных, выгрузка данных, SQL
+* Ключевые слова  
+аналитик sql, sql analyst, аналитик, analyst, reporting analyst
+
 ## Яндекс.Музыка
 <a href="https://github.com/eddydewrussia/educational_projects/tree/main/1_Project">Каталог</a>  
 * Ключевые слова проекта  
